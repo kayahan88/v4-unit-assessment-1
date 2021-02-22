@@ -1,0 +1,173 @@
+body {
+    margin: 0px;
+}
+
+header {
+    background-color: rgb(148, 248, 223);
+    height: 10vh;
+}
+
+.top-words {
+    margin-right: 30px;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.titles {
+    margin-left: 15px;
+    margin-bottom: 0px;
+    font-weight: bold;
+    font-size: 0.5cm;
+}
+
+.top-container {
+    box-sizing: border-box;
+    border: dotted black 1px;
+    height: auto;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 23px;
+    padding: 10px;
+}
+
+.box-1 {
+    height: 65px;
+    width: 130px;
+    background-color: rgb(92, 0, 128);
+    display: inline-block;
+    border: solid red 2px;
+    margin-right: 10px;
+}
+.box-2 {
+    height: 65px;
+    width: 65px;
+    background-color: blue;
+    display: inline-block;
+    box-shadow: 4px 4px 4px rgb(20, 20, 20);
+    margin-right: 10px;
+}
+
+.box-3 {
+    height: 130px;
+    width: 130px;
+    background-color: rgb(212, 119, 150);
+    display: inline-block;
+    border: solid black 1px;
+}
+
+.middle-container {
+    box-sizing: border-box;
+    border: dotted black 1px;
+    height: auto;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 23px;
+    padding: 10px;
+}
+
+.snowman-1 {
+    border-radius: 50%;
+    width: 65px;
+    height: 65px;
+    border: solid black 1px;
+    margin-left: 30px;
+}
+
+.coal-eye1 {
+    height: 13px;
+    margin-top: 15px;
+    margin-left: 12px;
+}
+
+.coal-eye2 {
+    height: 13px;
+    margin-top: 17px;
+    margin-left: 0px;
+}
+
+.carrot {
+    height: 16px;
+    margin-left: 18px;
+    margin-top: 2px;
+}
+
+.snowman-2 {
+    border-radius: 50%;
+    width: 79px;
+    height: 79px;
+    border: solid black 1px;
+    margin-left: 22px;
+}
+
+.coal {
+    height: 13px;
+    display: block;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.snowman-3 {
+    border-radius: 50%;
+    width: 95px;
+    height: 95px;
+    border: solid black 1px;
+    margin-left: 15px;
+}
+
+
+.bottom-container {
+    box-sizing: border-box;
+    border: dotted black 1px;
+    height: auto;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+
+.outside-box {
+    background-color: rgb(247, 240, 216);
+    height: 280px;
+    width: 280px;
+    border: solid black 1px;
+}
+
+.outside-circle {
+    border-radius: 50%;
+    background-color: green;
+    width: 250px;
+    height: 250px;
+    border: solid black 1px;
+}
+
+.inside-box {
+    background-color: rgb(150, 39, 39);
+    height: 170px;
+    width: 170px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.inside-circle {
+    background-color: blue;
+    border-radius: 50%;
+    height: 130px;
+    width: 130px;
+}
+.fish-tank {
+    margin-top: 3px;
+    margin-left: 40px;
+    display: inline-block;
+    margin-right: 0px;
+    padding: 0px;
+    text-align: center;
+    color: white;
+    font-size: larger;
+}
+
+.fish {
+    height: 40px;
+    width: 60px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
